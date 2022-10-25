@@ -1,5 +1,4 @@
-## Hi there 👋, 
-## I'm Emrahcan Şahinoğlu!  
+## Hi there 👋, I'm Emrahcan Şahinoğlu!  
   
 
 <a href="https://github.com/emrahhcan" target="_blank">
@@ -82,4 +81,3 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
