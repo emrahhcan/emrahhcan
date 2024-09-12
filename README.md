@@ -15,10 +15,7 @@
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently a senior Computer Engineering student at Istanbul Bilgi University  
-  
-
-- 🌱 I’m currently learning Spring framework, Hibernate, Docker and React JS  
+- Emrahcan Şahinoğlu is a skilled Software Engineer with a strong background in full-stack development, cloud services, and API integration. Holding a BS in Computer Engineering from Istanbul Bilgi University, Emrahcan has demonstrated expertise in developing scalable and secure software solutions, with proficiency in technologies such as NodeJS, JavaScript, TypeScript, Express, Nest.js, React, Next.js, and cloud platforms AWS, GCP and Azure. 
 
 
 </td><td valign="top" width="50%">
