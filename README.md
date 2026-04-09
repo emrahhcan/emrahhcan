@@ -97,44 +97,6 @@ Software Engineer based in **Istanbul, Türkiye** with a strong background in **
 
 </div>
 
-<br/>
-
-## 🔥 Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| **[Secret Notes](https://github.com/emrahhcan/SecretNotesGeneral)** | Anonymous social network — 3 backend services, real-time WebSocket chat, web & mobile clients. Evolved infra from AWS → bare metal → GCP serverless with full CI/CD | TypeScript, NestJS, Fastify, Next.js, React Native, GCP, Cloudflare R2 |
-| **Dressia** | AI-powered fashion app with virtual try-on, outfit analysis, and visual product search. Subscription-based coin system via RevenueCat | React Native/Expo, Fastify, GCP, RevenueCat |
-| **[Express TS DI Boilerplate](https://github.com/emrahhcan/express-typescript-di-simple-boilerplate)** | Clean Express + TypeScript boilerplate with Dependency Injection pattern | TypeScript, Express, InversifyJS |
-
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=emrahhcan&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emrahhcan&hide_border=true&layout=compact&theme=tokyonight" width="48%" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=emrahhcan&hide_border=true&theme=tokyonight" width="48%" />
-
-</div>
-
-<br/>
-
-## 🎓 Education
-
-🎓 **Istanbul Bilgi University** — BS in Computer Engineering *(Sep 2019 – May 2024)*
-🌎 **Dominican University of California** — English as a Second Language *(Nov 2019 – Jun 2020)*
-
-<br/>
-
-## 🌍 Languages
-
-🇹🇷 Turkish (Native) · 🇬🇧 English (Fluent) · 🇨🇳 Chinese (Basic)
-
 ---
 
 <div align="center">
