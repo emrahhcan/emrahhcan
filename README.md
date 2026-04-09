@@ -2,7 +2,7 @@
 
 # Hey there! 👋 I'm Emrahcan Şahinoğlu
 
-### 🚀 Software Engineer | Full-Stack Developer | Cloud & AI Enthusiast
+### 🚀 Software Engineer | Backend Specialist | Cloud & AI Enthusiast
 
 <br/>
 
@@ -16,25 +16,24 @@
 
 ## 🧑‍💻 About Me
 
-Software Engineer with a strong background in **full-stack development**, **cloud services**, **AI integration**, and **API design**. Holding a BS in Computer Engineering from **Istanbul Bilgi University**, I specialize in building **scalable**, **secure**, and **high-performance** software solutions — from backend microservices to modern web & mobile applications.
+Software Engineer based in **Istanbul, Türkiye** with a strong background in **backend development**, **cloud infrastructure**, **AI-powered applications**, and **scalable system design**. Holding a BS in Computer Engineering from **Istanbul Bilgi University**, I've built and shipped products serving **millions of users** — from anonymous social networks to AI mobile apps.
 
-- 🔭 Currently working at **Pio Technology** as a Software Engineer & building **Secret Notes** and **Dressia** as side projects
-- 🌱 Specializing in **TypeScript**, **Node.js**, **NestJS**, **Next.js**, **React**, **React Native**, and cloud platforms
-- ☁️ Experienced with **AWS** (S3, EC2, Lambda, SES, CloudWatch), **GCP** (Firebase, Cloud Functions, App Engine), and **Azure**
-- 🤖 Integrating **AI/ML** services — OpenAI, Google Gemini, AWS Rekognition, and custom AI pipelines
-- 💡 Passionate about clean architecture, CI/CD automation, and developer experience
+- 🔭 Currently at **AppNation** — owning backend & infrastructure for **10+ AI-powered mobile apps**
+- 🚀 Founded **Secret Notes, Inc.** — an anonymous social network (Delaware, U.S.A.)
+- 🤖 Building **Dressia** — AI-powered fashion app with virtual try-on & visual product search
+- ☁️ Deep experience with **GCP** (Cloud Run, Compute Engine, VPC, Artifact Registry), **AWS** (EC2, ECS, S3), and **Cloudflare** (R2, CDN)
+- 💡 Passionate about clean architecture, CI/CD automation, and cost-efficient infrastructure
 
 <br/>
 
 ## 💼 Work Experience
 
-| Role | Company | Period |
-|------|---------|--------|
-| **Software Engineer** | Pio Technology | Oct 2024 – Present |
-| **Co-Founder & Full Stack Developer** | Secret Notes | Jan 2023 – Present |
-| **Co-Founder & Backend Developer** | Dressia | Mar 2025 – Present |
-| **Software Engineer** | Pio Technology | Jul 2022 – Jan 2024 |
-| **Software Engineer (Intern)** | Pio Technology | Jul 2021 – Jul 2022 |
+| Role | Company | Period | Location |
+|------|---------|--------|----------|
+| **Software Engineer** | AppNation | Oct 2024 – Present | Istanbul, Türkiye |
+| **Founder / CEO & Software Engineer** | Secret Notes, Inc. | Dec 2022 – Dec 2025 | Delaware, U.S.A. |
+| **Backend Developer** | TIRPORT / GRN Logistics Technologies | Mar 2024 – Aug 2024 | Istanbul, Türkiye |
+| **Intern Backend Developer** | Jotform | Aug 2022 – Sep 2022 | Ankara, Türkiye |
 
 <br/>
 
@@ -45,47 +44,56 @@ Software Engineer with a strong background in **full-stack development**, **clou
 #### Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnubash&logoColor=white)
 
 #### Backend & Frameworks
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-%23E10098.svg?style=for-the-badge&logo=graphql&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-%23010101.svg?style=for-the-badge&logo=socket.io&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-%23FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-%23C4302B.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 #### Frontend & Mobile
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-%23000020.svg?style=for-the-badge&logo=expo&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-#### Databases & Cloud
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+#### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firestore-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
+![Prisma](https://img.shields.io/badge/Prisma-%232D3748.svg?style=for-the-badge&logo=prisma&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-%23880000.svg?style=for-the-badge&logo=mongoose&logoColor=white)
+
+#### Cloud & DevOps
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-%230078D4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-%23F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white)
+![New Relic](https://img.shields.io/badge/New_Relic-%231CE783.svg?style=for-the-badge&logo=newrelic&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white)
 
 #### AI & ML
 ![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-%23191919.svg?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Gemini-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
+![Replicate](https://img.shields.io/badge/Replicate-%23000000.svg?style=for-the-badge&logo=replicate&logoColor=white)
 
-#### Tools & DevOps
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+#### Payments & Monetization
+![Stripe](https://img.shields.io/badge/Stripe-%23008CDD.svg?style=for-the-badge&logo=stripe&logoColor=white)
+![Adapty](https://img.shields.io/badge/Adapty-%232C2C2C.svg?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white)
+![RevenueCat](https://img.shields.io/badge/RevenueCat-%23F25A5A.svg?style=for-the-badge&logoColor=white)
 
 </div>
 
@@ -95,10 +103,9 @@ Software Engineer with a strong background in **full-stack development**, **clou
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| **[Secret Notes](https://github.com/emrahhcan/SecretNotesGeneral)** | Privacy-focused, multi-platform notes ecosystem with REST API, WebSocket backend, web & mobile clients, AI features, and gallery service | TypeScript, NestJS, React Native, Next.js, AWS, Firebase |
-| **[Dressia](https://github.com/emrahhcan/dressia-backend)** | AI-powered fashion platform backend with smart outfit recommendations | TypeScript, NestJS, OpenAI, GCP |
+| **[Secret Notes](https://github.com/emrahhcan/SecretNotesGeneral)** | Anonymous social network — 3 backend services, real-time WebSocket chat, web & mobile clients. Evolved infra from AWS → bare metal → GCP serverless with full CI/CD | TypeScript, NestJS, Fastify, Next.js, React Native, GCP, Cloudflare R2 |
+| **Dressia** | AI-powered fashion app with virtual try-on, outfit analysis, and visual product search. Subscription-based coin system via RevenueCat | React Native/Expo, Fastify, GCP, RevenueCat |
 | **[Express TS DI Boilerplate](https://github.com/emrahhcan/express-typescript-di-simple-boilerplate)** | Clean Express + TypeScript boilerplate with Dependency Injection pattern | TypeScript, Express, InversifyJS |
-| **[Amadeus Flight Search API](https://github.com/emrahhcan/AmadeusFlightSearchAPI)** | Flight search API integration with Amadeus GDS | Java, Spring Boot |
 
 <br/>
 
@@ -119,9 +126,14 @@ Software Engineer with a strong background in **full-stack development**, **clou
 
 ## 🎓 Education
 
-**Istanbul Bilgi University** — BS in Computer Engineering *(2018 – 2023)*
+🎓 **Istanbul Bilgi University** — BS in Computer Engineering *(Sep 2019 – May 2024)*
+🌎 **Dominican University of California** — English as a Second Language *(Nov 2019 – Jun 2020)*
 
 <br/>
+
+## 🌍 Languages
+
+🇹🇷 Turkish (Native) · 🇬🇧 English (Fluent) · 🇨🇳 Chinese (Basic)
 
 ---
 
