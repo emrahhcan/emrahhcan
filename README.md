@@ -2,7 +2,7 @@
 
 # Hey there! 👋 I'm Emrahcan Şahinoğlu
 
-### 🚀 Software Engineer | Backend Specialist | Cloud & AI Enthusiast
+### 🚀 Software Engineer | Backend Oriented Full Stack Dev | Cloud & AI Enthusiast
 
 <br/>
 
