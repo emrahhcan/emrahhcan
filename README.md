@@ -18,7 +18,7 @@
 
 Software Engineer based in **Istanbul, Türkiye** with a strong background in **backend development**, **cloud infrastructure**, **AI-powered applications**, and **scalable system design**. Holding a BS in Computer Engineering from **Istanbul Bilgi University**, I've built and shipped products serving **millions of users** — from anonymous social networks to AI mobile apps.
 
-- 🔭 Currently at **AppNation** — owning backend & infrastructure for **10+ AI-powered mobile apps**
+- 🔭 Former SWE at **AppNation** — owning backend & infrastructure for **10+ AI-powered mobile apps**
 - 🚀 Founded **Secret Notes, Inc.** — an anonymous social network (Delaware, U.S.A.)
 - 🤖 Building **Dressia** — AI-powered fashion app with virtual try-on & visual product search
 - ☁️ Deep experience with **GCP** (Cloud Run, Compute Engine, VPC, Artifact Registry), **AWS** (EC2, ECS, S3), and **Cloudflare** (R2, CDN)
